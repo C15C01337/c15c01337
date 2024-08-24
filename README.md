@@ -1,6 +1,6 @@
 # $whoami~ 👋
 
-## I am Bishal Aryal aka. C15C001337
+## Bishal Aryal aka. C15C001337
 
 ### About Me
 
@@ -52,4 +52,4 @@ As the Co-founder of the CTF team Hack@Sec, I have led the team to numerous nati
 
 ### Links
 
-[Twitter](https://twitter.com/C15C01337) | [LinkedIn](https://www.linkedin.com/in/c15c01337/) | [Medium Blog](https://c15c01337.medium.com)| [CTFtime](https://ctftime.org/team/135426)
+[Twitter](https://twitter.com/C15C01337) | [LinkedIn](https://www.linkedin.com/in/c15c01337/) | [Medium Blog](https://c15c01337.medium.com) | [CTFtime](https://ctftime.org/team/135426)
