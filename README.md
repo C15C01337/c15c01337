@@ -4,7 +4,7 @@
 
 ### About Me
 
-I am a dedicated Security Engineer and Red Teamer with extensive expertise in web, network, and mobile security vulnerability assessments and penetration testing. My strong technical foundation is further strengthened by deep knowledge in Cryptography, Reconnaissance, and Infrastructure Security, with a focus on system hardening and implementing robust security measures. Throughout my career as a Security Engineer which lies in uncovering vulnerabilities and fortifying systems, helping organizations enhance their overall security posture through meticulous assessments and advanced security strategies.
+With over 1.7 year+ experience as a Security Engineer with extensive expertise in web, network, and mobile security vulnerability assessments and penetration testing. My strong technical foundation is further strengthened by deep knowledge in Cryptography, Web Security, Reconnaissance, and Infrastructure Security, with a focus on system hardening and implementing robust security measures. Throughout my career as a Security Engineer which lies in uncovering vulnerabilities and fortifying systems, helping organizations enhance their overall security posture through meticulous assessments and advanced security strategies.
 
 As the Co-founder of the CTF team Hack@Sec, I have led the team to numerous national and international victories, representing Nepal on global stages such as Black Hat MEA 2023 and many other international CTF competitions. Our team’s success stems from a commitment to continuously learning new technologies and pushing the boundaries by breaking and understanding complex systems. 
 
