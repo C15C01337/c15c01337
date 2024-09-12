@@ -8,10 +8,13 @@ With over 1.7 year+ experience as a Security Engineer with extensive expertise i
 
 As the Co-founder of the CTF team Hack@Sec, I have led the team to numerous national and international victories, representing Nepal on global stages such as Black Hat MEA 2023 and many other international CTF competitions. Our team’s success stems from a commitment to continuously learning new technologies and pushing the boundaries by breaking and understanding complex systems. 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=c15c01337&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=c15c01337&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=c15c01337&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### GitHub Stats
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=c15c01337&theme=black-ice&hide_border=false&stroke=lightblue&background=060A0CD0" alt="GitHub Streak">
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=c15c01337&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### Technical Skills
 
